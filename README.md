@@ -10,8 +10,9 @@
 
 - 📫 How to reach me **brunobernaldev@gmail.com**
 
+- 🌍 here are some of my projects -->
+  
 - ⚡ Fun fact **I like animals 🐮**
-
 
 <p align="left">
 </p>

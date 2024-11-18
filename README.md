@@ -10,9 +10,8 @@
 
 - 📫 How to reach me **brunobernaldev@gmail.com**
 
-- 🌍 here are some of my projects
-        vvv
-Car sales page
+- 🌍 here are some of my projects <br>
+Car sales page<br>
 https://brunobernalsalaberria.github.io/
   
 - ⚡ Fun fact **I like animals 🐮**

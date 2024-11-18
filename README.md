@@ -13,7 +13,6 @@
 - 🌍 here are some of my projects <br>
 Car sales page<br>
 <a href="https://brunobernalsalaberria.github.io/">Car sales page</a>
-https://brunobernalsalaberria.github.io/
   
 - ⚡ Fun fact **I like animals 🐮**
 

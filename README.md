@@ -11,7 +11,6 @@
 - 📫 How to reach me **brunobernaldev@gmail.com**
 
 - 🌍 here are some of my projects <br>
-Car sales page<br>
 <a href="https://brunobernalsalaberria.github.io/">Car sales page</a>
   
 - ⚡ Fun fact **I like animals 🐮**

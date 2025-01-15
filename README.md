@@ -14,8 +14,9 @@
 <a href="https://brunobernalsalaberria.github.io/">Car sales page</a>
 <br/>
 <a href="https://github.com/brunobernalsalaberria/CampusVirtual">Campus virtual(Laravel)</a>
+<br/>
 - ⚡ Fun fact **I like animals 🐮**
-
+<br/>
 <p align="left">
 </p>
 

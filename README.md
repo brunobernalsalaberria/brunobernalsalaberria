@@ -10,13 +10,13 @@
 
 - 📫 How to reach me **brunobernaldev@gmail.com**
 
-- 🌍 here are some of my projects <br>
-<a href="https://brunobernalsalaberria.github.io/">Car sales page</a>
-<br>
-<a href="https://github.com/brunobernalsalaberria/CampusVirtual">Campus virtual(Laravel)</a>
-<br>
+- 🌍 here are some of my projects
+<ul style="display: flex; flex:colum">
+  <li><a href="https://brunobernalsalaberria.github.io/">Car sales page</a></li>
+  <li><a href="https://github.com/brunobernalsalaberria/CampusVirtual">Campus virtual(Laravel)</a></li>
+</ul>
+
 - ⚡ Fun fact **I like animals 🐮**
-<br/>
 <p align="left">
 </p>
 

@@ -9,7 +9,7 @@
 - 💬 Ask me about **Laravel and Java**
 
 - 📫 How to reach me **brunobernaldev@gmail.com**
-
+-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 - 🌍 here are some of my projects
     <ul style="display: flex; flex-direction: column; padding: 0;margin: 0; ">
         <li style="list-style: none;"><a href="https://brunobernalsalaberria.github.io/">Car sales page</a></li>

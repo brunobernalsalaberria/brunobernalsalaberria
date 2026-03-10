@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBjMjlnaWE4b3R5d3V3MnE2YWxwMjYwMDRwaXA0YWNuanVpcWRpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"> 
 
-- 🌱 I’m currently learning **Rapid Miner(my favourite one), Neuronal Networks, Docker**
+- 🌱 I’m currently learning **Rapid Miner(my favourite one), Neuronal Networks, Docker, Deep Learning, Machine learning systems**
 
 - 💬 Ask me about **Rapid Miner and Neuronal Networks**
 

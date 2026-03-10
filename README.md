@@ -4,11 +4,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBjMjlnaWE4b3R5d3V3MnE2YWxwMjYwMDRwaXA0YWNuanVpcWRpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"> 
 
-- 🌱 I’m currently learning **Vue, Laravel, Ionic**
+- 🌱 I’m currently learning **Rapid Miner(my favourite one), Neuronal Networks, Docker**
 
-- 💬 Ask me about **Laravel and Java**
+- 💬 Ask me about **Rapid Miner and Neuronal Networks**
 
-- 📫 How to reach me **brunobernaldev@gmail.com**
+- 📫 How to reach me **brunobernaldev@gmail.com (give it a try🤞)**
 
 - 🌍 here are some of my projects
     <ul style="display: flex; flex-direction: column; padding: 0;margin: 0; ">
@@ -19,7 +19,7 @@
         <li style="list-style: none;"><a href="https://github.com/brunobernalsalaberria/sistemas_aprendizaje_automatico">Sistemas De Aprendizaje Automaticos(python)</a></li>
     </ul>
 
-- ⚡ Fun fact **I like animals 🐮**
+- ⚡ Fun fact **I like animals and nature 🐮**
 <p align="left">
 </p>
 

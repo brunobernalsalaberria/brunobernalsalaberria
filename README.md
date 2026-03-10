@@ -12,8 +12,11 @@
 
 - 🌍 here are some of my projects
     <ul style="display: flex; flex-direction: column; padding: 0;margin: 0; ">
-        <li style="list-style: none;"><a href="https://brunobernalsalaberria.github.io/">Car sales page</a></li>
         <li style="list-style: none;"><a href="https://github.com/brunobernalsalaberria/CampusVirtual">Campus virtual(Laravel)</a></li>
+        <li style="list-style: none;"><a href="https://github.com/brunobernalsalaberria/machine_learning">Machine Learning(python)</a></li>
+        <li style="list-style: none;"><a href="https://github.com/brunobernalsalaberria/api_feedback_google">Cloud AI APIs</a></li>
+        <li style="list-style: none;"><a href="https://github.com/brunobernalsalaberria/red_neuronal_convolucional">Red Neuronal Convolucional(python)</a></li>
+        <li style="list-style: none;"><a href="https://github.com/brunobernalsalaberria/sistemas_aprendizaje_automatico">Sistemas De Aprendizaje Automaticos(python)</a></li>
     </ul>
 
 - ⚡ Fun fact **I like animals 🐮**

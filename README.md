@@ -35,7 +35,7 @@
 </a>
 
 <a href="https://rapidminer.com" target="_blank" rel="noreferrer">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/a/ad/RapidMiner_Logo.svg](https://www.intelligentbusiness.biz/wp-content/uploads/2019/04/Rapidminer-logo-2019.png)" alt="rapidminer" width="40" height="40"/>
+  <img src="[[https://upload.wikimedia.org/wikipedia/commons/a/ad/RapidMiner_Logo.svg](https://www.intelligentbusiness.biz/wp-content/uploads/2019/04/Rapidminer-logo-2019.png)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFKF9dawC8013rAB2ewE7OwKS-djTZaLhW9Q&s)" alt="rapidminer" width="40" height="40"/>
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">

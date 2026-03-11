@@ -35,7 +35,7 @@
 </a>
 
 <a href="https://rapidminer.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/rapidminer" alt="rapidminer" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/rapidminer/FF6F00" alt="rapidminer" width="40" height="40"/>
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">

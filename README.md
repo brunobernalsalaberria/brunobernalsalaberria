@@ -24,7 +24,8 @@
   
   <li style="list-style: none;"><a href="https://github.com/brunobernalsalaberria/sistemas_aprendizaje_automatico">Sistemas De Aprendizaje Automaticos(python)</a></li>
 
-  <li style="list-style: none;"><a href="[https://github.com/brunobernalsalaberria/sistemas_aprendizaje_automatico](https://github.com/brunobernalsalaberria/TFM)">Sistemas De Aprendizaje Automaticos(python)</a></li>
+  <li style="list-style: none;"><a href="https://github.com/brunobernalsalaberria/TFM">TFM IA y Big Data</a></li>
+  
   </ul>
 
 - ⚡ Fun fact **I like animals and nature 🐮**
